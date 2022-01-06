@@ -5,7 +5,7 @@ function Portfolio(props) {
   return (
     <section>
       <div>
-          <ProjectList />
+          <ProjectList></ProjectList>
       </div>
     </section>
   );
