@@ -3,7 +3,7 @@ function Footer() {
       <footer>
         <div className="footer-container">
             <a href="https://github.com/Hibram007">Github</a>
-            <a href="www.linkedin.com/in/hibram-sanchez-garcia-321957145">linkedin</a>
+            <a href="https://www.linkedin.com/in/hibram-sanchez-garcia-321957145">Linkedin</a>
         </div>
         </footer>
     );
