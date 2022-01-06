@@ -31,7 +31,7 @@ return (
         {projects.map((project, i) => (
           <div className="mx-1 project" key={project.name}>
             <img
-              src={require(`../../assets/images/${i}.png`).default}
+              src={require(`../../assets/images/${i}.jpeg`).default}
               alt={project.name}
               className="img-thumbnail"
             />

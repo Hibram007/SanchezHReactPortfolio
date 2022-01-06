@@ -14,7 +14,7 @@ function Header(props) {
 
   return (
     <header className="flex-row align-items">
-      <h2 className="white">Joshua M. Rendon</h2>
+      <h2 className="white">Hibram Sanchez</h2>
       <Nav
         aboutSelected={aboutSelected}
         setAboutSelected={setAboutSelected}
