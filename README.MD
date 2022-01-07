@@ -6,6 +6,15 @@ The following is a single page app or SPA, that was used to showcase my REACT sk
 ## Tech used 
 - React
 
+## References
+- Tutor Armando 
+- Youtube
+- module 20 
+- github
+- stack overflow
+- heroku docs
+
+
 ## Install
 npm react
 
