@@ -15,7 +15,7 @@ code {
 :root {
   --primary-color: #e7e42e;
   --secondary-color: #0c59b1;
-  --tertiary-color: #d4cddb;
+  --tertiary-color: white;
   --light: #fafafa;
   --dark: #000000;
   --darker: #111111;
@@ -369,11 +369,14 @@ footer {
   bottom: 0;
   width: 100%;
   height: 2.5rem;
+  background-color: blue;
 }
 
 .footer-container {
   display: flex;
   justify-content: center;
+  background-color: blue;
+  color: white;
 }
 
 footer a {
