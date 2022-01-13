@@ -23,6 +23,11 @@ function ProjectList() {
         deployedLink: "https://salty-peak-47105.herokuapp.com/",
         githubLink:"https://github.com/Hibram007/NoteTakerV2",
     },
+    {
+      name:"Tech-finder app",
+      deployedLink: "https://tech-finder-app.herokuapp.com/",
+      githubLink:"https://github.com/TheWizard421/Ecommerces-Tech-Finder",
+  },
 ]);
 
 
